@@ -2,7 +2,7 @@ package br.com.projetoautomacao.dslist.dto;
 
 import org.springframework.beans.BeanUtils;
 
-import br.com.projetoautomacao.dslist.entity.Game;
+import br.com.projetoautomacao.dslist.entities.Game;
 
 public class GameMinDTO {
 

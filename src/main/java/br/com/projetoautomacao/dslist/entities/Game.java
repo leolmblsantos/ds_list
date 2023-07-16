@@ -1,4 +1,4 @@
-package br.com.projetoautomacao.dslist.entity;
+package br.com.projetoautomacao.dslist.entities;
 
 import java.util.Objects;
 
